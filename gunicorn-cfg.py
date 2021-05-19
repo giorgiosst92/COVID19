@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 """
 License: MIT
-Copyright (c) 2019 - present AppSeed.us
+Copyright (c) 2019 - present Giorgio Amato
 """
 
 bind = '0.0.0.0:5005'

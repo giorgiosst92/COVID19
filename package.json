@@ -12,18 +12,13 @@
     "eslint": "5.0.0",
     "eslint-config-google": "0.9.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/BrianRuizy/covid19-dashboard"
-  },
   "keywords": [
     "django",
     "admin-panel",
     "open-source"
   ],
-  "author": "Brian Ruiz",
+  "author": "Giorgio Amato",
   "contributors": [
-    "Brian Ruiz"
-  ],
-  "license": "MIT"
+    "Giorgio Amato"
+  ]
 }
