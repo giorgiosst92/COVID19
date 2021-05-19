@@ -1,9 +1,5 @@
 ## Getting Started
 
-### Prerequisites
-
-* Python; [pyenv](https://github.com/pyenv/pyenv) recommended
-* Pip
 
 ### Installing
 
